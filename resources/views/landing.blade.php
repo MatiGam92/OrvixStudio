@@ -280,7 +280,7 @@
         {{-- NOSOTROS --}}
         <a href="{{ route('nosotros') }}"
            class="text-sm tracking-widest hover:text-yellow-300 transition">
-            NOSOTROS
+            EQUIPO
         </a>
 
         <a class="text-sm justify-center  transition">
